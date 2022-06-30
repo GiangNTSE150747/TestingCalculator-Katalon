@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="80" height="80"> Katalon Studio 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="80" height="80"> atalon Studio 
 
 This is a project to learn about katalon studio, including the source code of the program to be tested (Calculator web application), and the katalon program (Testing program).
 
